@@ -19,10 +19,6 @@ Sreevankumar R
 
 Dr. Chitra
 
-## Demonstration
-
-For a practical overview of the tool's functionality, watch the demonstration screencast here: [Watch the Screencast](#).
-
 ## Key Features
 
 - **CPU Metrics Monitoring**: Provides real-time monitoring of CPU utilization, including usage percentages for each core. It also visualizes C-states, representing different CPU idle modes, to help identify energy-saving opportunities.
